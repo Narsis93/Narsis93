@@ -41,6 +41,8 @@ I am a QA Engineer and Web Developer passionate about **software testing, automa
 ---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narsis93&layout=compact)
 ---
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Narsis93&theme=flat)
+---
 
 ## 📬 Contact
 - GitHub: https://github.com/Narsis93
