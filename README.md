@@ -36,9 +36,13 @@ I am a QA Engineer and Web Developer passionate about **software testing, automa
 - Checks accuracy of cart items and display behavior
 
 ---
+![Narges's GitHub stats](https://github-readme-stats.vercel.app/api?username=Narsis93&show_icons=true&theme=default)
+
+---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Narsis93&layout=compact)
+---
 
 ## 📬 Contact
 - GitHub: https://github.com/Narsis93
 - Email: soltaninarges71@gmail.com
 - LinkedIn: https://www.linkedin.com/in/narges-soltani-b10394204?utm_source=share_via&utm_content=profile&utm_medium=member_android
-
